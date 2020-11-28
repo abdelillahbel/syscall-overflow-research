@@ -1,6 +1,6 @@
 threshold: 0.6621718269917476
-version: '3.7'
-last_updated: 2020-11-28 21:19
+version: '3.8'
+last_updated: 2020-11-28 14:46
 tasks:
   task_430:
     status: updated
@@ -100,3 +100,7 @@ tasks:
     status: updated
     timestamp: 2020-11-28 21:19
     id: 5183
+  task_9680:
+    status: updated
+    timestamp: 2020-11-28 14:46
+    id: 9680
