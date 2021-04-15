@@ -1,6 +1,6 @@
 threshold: 0.6621718269917476
-version: '50.7'
-last_updated: 2021-04-15 14:42
+version: '50.8'
+last_updated: 2021-04-15 19:19
 tasks:
   task_430:
     status: updated
@@ -1928,3 +1928,7 @@ tasks:
     status: updated
     timestamp: 2021-04-15 14:42
     id: 4706
+  task_6052:
+    status: updated
+    timestamp: 2021-04-15 19:19
+    id: 6052
