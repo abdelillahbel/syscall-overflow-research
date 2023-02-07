@@ -1,6 +1,6 @@
 threshold: 0.6621718269917476
-version: '389.2'
-last_updated: 2023-02-07 09:08
+version: '389.3'
+last_updated: 2023-02-07 09:47
 tasks:
   task_430:
     status: updated
@@ -12568,3 +12568,7 @@ tasks:
     status: updated
     timestamp: 2023-02-07 09:08
     id: 8259
+  task_1307:
+    status: updated
+    timestamp: 2023-02-07 09:47
+    id: 1307
