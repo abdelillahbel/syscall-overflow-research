@@ -23,3 +23,4 @@ Feature update 22 - tceKIS7M
 Feature update 23 - hKdbSAT6
 Feature update 24 - PA3gfjMA
 Feature update 25 - O7HGHRJp
+Feature update 26 - IQCklead
