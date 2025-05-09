@@ -1,4 +1,11 @@
 {
+  "name": "github-contribution-simulator",
+  "version": "1.0.4",
+  "main": "github_contribution_simulator_v4.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node github_contribution_simulator_v4.mjs"
+  },
   "dependencies": {
     "@octokit/rest": "^21.1.1",
     "chalk": "^5.4.1",
